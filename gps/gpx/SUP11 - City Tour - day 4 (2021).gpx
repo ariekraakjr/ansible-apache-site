@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="53.2059554" lon="5.7962751">
+  <name>Start SUP11 City Tour - Day 1</name>
+  <desc>zondag 3 februari 2019 1:00 CET</desc>
+  <sym>https://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</sym>
+</wpt>
+<wpt lat="53.0587898" lon="5.6799458">
+  <name>REST TOUR 1A</name>
+  <desc>19</desc>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="53.0315603" lon="5.656675">
+  <name>REST RACE</name>
+  <sym>icon-2.png</sym>
+</wpt>
+<wpt lat="53.0291536" lon="5.6578254">
+  <name>BELL SNEEK</name>
+  <sym>icon-3.png</sym>
+</wpt>
+<wpt lat="53.0105553" lon="5.6219672">
+  <name>BELL IJLST</name>
+  <sym>icon-4.png</sym>
+</wpt>
+<wpt lat="52.9450482" lon="5.6297735">
+  <name>REST TOUR 1B</name>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="52.8935645" lon="5.64605">
+  <name>Finish SUP11 City Tour - Day 1</name>
+  <desc>zondag 3 februari 2019 1:59 CET</desc>
+  <sym>icon-5.png</sym>
+</wpt>
+<wpt lat="52.8967086" lon="5.6454479">
+  <name>Start SUP11 City Tour - Day 2</name>
+  <desc>donderdag 6 september 2018 2:00 CEST</desc>
+  <sym>https://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</sym>
+</wpt>
+<wpt lat="52.880053" lon="5.3641172">
+  <name>REST RACE</name>
+  <sym>icon-2.png</sym>
+</wpt>
+<wpt lat="52.8992292" lon="5.4623515">
+  <name>REST TOUR 2A</name>
+  <desc>17 km</desc>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="52.9379447" lon="5.4081731">
+  <name>REST TOUR 2B</name>
+  <desc>36.5 km</desc>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="52.8843554" lon="5.3612399">
+  <name>BELL STAVOREN</name>
+  <sym>icon-3.png</sym>
+</wpt>
+<wpt lat="52.9427232" lon="5.4018306">
+  <name>BELL HINDELOOPEN</name>
+  <sym>icon-4.png</sym>
+</wpt>
+<wpt lat="52.9770398" lon="5.4433501">
+  <name>Finish SUP11 City Tour - Day 2</name>
+  <desc>donderdag 6 september 2018 2:59 CEST</desc>
+  <sym>icon-5.png</sym>
+</wpt>
+<wpt lat="52.9769197" lon="5.4432154">
+  <name>Start SUP11 City Tour - Day 3</name>
+  <desc>zaterdag 25 augustus 2018 2:00 CEST</desc>
+  <sym>https://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</sym>
+</wpt>
+<wpt lat="53.0587521" lon="5.5201094">
+  <name>Finish time-trial race</name>
+  <sym>icon-5.png</sym>
+</wpt>
+<wpt lat="53.0596419" lon="5.5201524">
+  <name>Start Race</name>
+  <sym>https://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</sym>
+</wpt>
+<wpt lat="53.0608492" lon="5.5186997">
+  <name>BELL BOLSWARD TOUR</name>
+  <sym>icon-4.png</sym>
+</wpt>
+<wpt lat="53.1711612" lon="5.4235451">
+  <name>BELL HARLINGEN</name>
+  <sym>icon-4.png</sym>
+</wpt>
+<wpt lat="53.1005683" lon="5.4670151">
+  <name>REST TOUR 3A</name>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="53.1713296" lon="5.4246909">
+  <name>REST TOUR 3B</name>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="53.1886571" lon="5.5436286">
+  <name>Finish SUP11 City Tour - Day 3</name>
+  <desc>zaterdag 25 augustus 2018 2:59 CEST</desc>
+  <sym>icon-5.png</sym>
+</wpt>
+<wpt lat="53.18891" lon="5.5461005">
+  <name>Start SUP11 City Tour - Day 4</name>
+  <desc>zaterdag 25 augustus 2018 2:00 CEST</desc>
+  <sym>https://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</sym>
+</wpt>
+<wpt lat="53.2878532" lon="5.7282067">
+  <name>REST RACE</name>
+  <sym>icon-2.png</sym>
+</wpt>
+<wpt lat="53.288833" lon="5.7264918">
+  <name>REST TOUR 4A</name>
+  <desc>14.5 km</desc>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="53.2962688" lon="5.8823361">
+  <name>REST TOUR 4B</name>
+  <sym>icon-6.png</sym>
+</wpt>
+<wpt lat="53.3239455" lon="5.9947679">
+  <name>Finish SUP11 City Tour - Day 4</name>
+  <desc>zaterdag 25 augustus 2018 2:59 CEST</desc>
+  <sym>icon-5.png</sym>
+</wpt>
+<wpt lat="53.324971" lon="5.9936746">
+  <name>Start SUP11 City Tour - Day 5</name>
+  <desc>zondag 9 september 2018 2:00 CEST</desc>
+  <sym>https://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</sym>
+</wpt>
+<wpt lat="53.264515" lon="5.8850107">
+  <name>RUST TOUR</name>
+  <sym>icon-1.png</sym>
+</wpt>
+<wpt lat="53.2055196" lon="5.7958167">
+  <name>Finish SUP11 City Tour - Day 5</name>
+  <desc>zondag 9 september 2018 2:59 CEST</desc>
+  <sym>icon-5.png</sym>
+</wpt>
+<trk>
+  <name>SUP11 City Tour - Day 4</name>
+  <desc>Statistieken zijn berekend op basis van geïmporteerde gegevens&lt;br>&lt;br>zaterdag 25 augustus 2018 2:00 CEST&lt;br>Afstand: 42,5 km&lt;br>Duur: 59 minuten en 56 seconden&lt;br>Gemiddelde snelheid: 42,6 km/u</desc>
+  <trkseg>
+    <trkpt lat="53.18891" lon="5.5461005"></trkpt>
+    <trkpt lat="53.1933069" lon="5.54786"></trkpt>
+    <trkpt lat="53.1942067" lon="5.5474738"></trkpt>
+    <trkpt lat="53.1948238" lon="5.5482892"></trkpt>
+    <trkpt lat="53.1993743" lon="5.5501775"></trkpt>
+    <trkpt lat="53.1994514" lon="5.553482"></trkpt>
+    <trkpt lat="53.2092288" lon="5.5528382"></trkpt>
+    <trkpt lat="53.2106424" lon="5.5548982"></trkpt>
+    <trkpt lat="53.2126189" lon="5.5542115"></trkpt>
+    <trkpt lat="53.2153173" lon="5.5568723"></trkpt>
+    <trkpt lat="53.2157413" lon="5.5579022"></trkpt>
+    <trkpt lat="53.2166793" lon="5.5627302"></trkpt>
+    <trkpt lat="53.2176686" lon="5.5647258"></trkpt>
+    <trkpt lat="53.2185423" lon="5.5644468"></trkpt>
+    <trkpt lat="53.2200326" lon="5.5732874"></trkpt>
+    <trkpt lat="53.2206879" lon="5.5772141"></trkpt>
+    <trkpt lat="53.2225507" lon="5.5828575"></trkpt>
+    <trkpt lat="53.2248759" lon="5.5905823"></trkpt>
+    <trkpt lat="53.2266615" lon="5.5962042"></trkpt>
+    <trkpt lat="53.2296801" lon="5.6000094"></trkpt>
+    <trkpt lat="53.2319793" lon="5.6059103"></trkpt>
+    <trkpt lat="53.2328013" lon="5.608056"></trkpt>
+    <trkpt lat="53.2339444" lon="5.6135277"></trkpt>
+    <trkpt lat="53.2339059" lon="5.615695"></trkpt>
+    <trkpt lat="53.2348049" lon="5.6172614"></trkpt>
+    <trkpt lat="53.2387604" lon="5.6262307"></trkpt>
+    <trkpt lat="53.2398648" lon="5.6285696"></trkpt>
+    <trkpt lat="53.2405968" lon="5.6325607"></trkpt>
+    <trkpt lat="53.2407252" lon="5.6345563"></trkpt>
+    <trkpt lat="53.2427156" lon="5.639513"></trkpt>
+    <trkpt lat="53.2462509" lon="5.6344657"></trkpt>
+    <trkpt lat="53.2498648" lon="5.6291284"></trkpt>
+    <trkpt lat="53.2512" lon="5.6302013"></trkpt>
+    <trkpt lat="53.253481" lon="5.6308162"></trkpt>
+    <trkpt lat="53.2554451" lon="5.6312669"></trkpt>
+    <trkpt lat="53.2594736" lon="5.6320231"></trkpt>
+    <trkpt lat="53.2605133" lon="5.6321947"></trkpt>
+    <trkpt lat="53.2605133" lon="5.6365936"></trkpt>
+    <trkpt lat="53.2602181" lon="5.6432884"></trkpt>
+    <trkpt lat="53.2597047" lon="5.6543176"></trkpt>
+    <trkpt lat="53.2593709" lon="5.6618278"></trkpt>
+    <trkpt lat="53.259448" lon="5.663995"></trkpt>
+    <trkpt lat="53.2604235" lon="5.672621"></trkpt>
+    <trkpt lat="53.2598587" lon="5.6795733"></trkpt>
+    <trkpt lat="53.2584985" lon="5.6852372"></trkpt>
+    <trkpt lat="53.2595767" lon="5.6949361"></trkpt>
+    <trkpt lat="53.2600645" lon="5.7010729"></trkpt>
+    <trkpt lat="53.260963" lon="5.7109864"></trkpt>
+    <trkpt lat="53.2679161" lon="5.7096184"></trkpt>
+    <trkpt lat="53.2681471" lon="5.7104338"></trkpt>
+    <trkpt lat="53.2686348" lon="5.7109059"></trkpt>
+    <trkpt lat="53.2686348" lon="5.7115067"></trkpt>
+    <trkpt lat="53.2689428" lon="5.7121504"></trkpt>
+    <trkpt lat="53.2690711" lon="5.7127083"></trkpt>
+    <trkpt lat="53.2706623" lon="5.7132662"></trkpt>
+    <trkpt lat="53.2718942" lon="5.7154978"></trkpt>
+    <trkpt lat="53.2724845" lon="5.7172144"></trkpt>
+    <trkpt lat="53.2722792" lon="5.718931"></trkpt>
+    <trkpt lat="53.2737163" lon="5.7185448"></trkpt>
+    <trkpt lat="53.2745376" lon="5.7194889"></trkpt>
+    <trkpt lat="53.275795" lon="5.7194031"></trkpt>
+    <trkpt lat="53.2768471" lon="5.7197464"></trkpt>
+    <trkpt lat="53.2776939" lon="5.7195748"></trkpt>
+    <trkpt lat="53.2790283" lon="5.7207335"></trkpt>
+    <trkpt lat="53.280632" lon="5.7209266"></trkpt>
+    <trkpt lat="53.2809912" lon="5.7214845"></trkpt>
+    <trkpt lat="53.2824409" lon="5.721742"></trkpt>
+    <trkpt lat="53.2833133" lon="5.7216132"></trkpt>
+    <trkpt lat="53.2843909" lon="5.7221926"></trkpt>
+    <trkpt lat="53.2860842" lon="5.7220209"></trkpt>
+    <trkpt lat="53.2880706" lon="5.7219228"></trkpt>
+    <trkpt lat="53.2896675" lon="5.7213542"></trkpt>
+    <trkpt lat="53.2897765" lon="5.721955"></trkpt>
+    <trkpt lat="53.2896419" lon="5.722588"></trkpt>
+    <trkpt lat="53.2895008" lon="5.7238218"></trkpt>
+    <trkpt lat="53.2892635" lon="5.7255384"></trkpt>
+    <trkpt lat="53.2890647" lon="5.7274482"></trkpt>
+    <trkpt lat="53.2890133" lon="5.732083"></trkpt>
+    <trkpt lat="53.2889492" lon="5.735012"></trkpt>
+    <trkpt lat="53.2869802" lon="5.7361063"></trkpt>
+    <trkpt lat="53.284684" lon="5.7372758"></trkpt>
+    <trkpt lat="53.2841388" lon="5.7374903"></trkpt>
+    <trkpt lat="53.2839272" lon="5.7369861"></trkpt>
+    <trkpt lat="53.2828047" lon="5.7368788"></trkpt>
+    <trkpt lat="53.282593" lon="5.7376191"></trkpt>
+    <trkpt lat="53.2817719" lon="5.7377693"></trkpt>
+    <trkpt lat="53.2806878" lon="5.7370719"></trkpt>
+    <trkpt lat="53.2807456" lon="5.7390675"></trkpt>
+    <trkpt lat="53.2803158" lon="5.7398722"></trkpt>
+    <trkpt lat="53.2801362" lon="5.7408163"></trkpt>
+    <trkpt lat="53.2801554" lon="5.745537"></trkpt>
+    <trkpt lat="53.2804633" lon="5.7461485"></trkpt>
+    <trkpt lat="53.2802709" lon="5.7499036"></trkpt>
+    <trkpt lat="53.2802645" lon="5.7510731"></trkpt>
+    <trkpt lat="53.2800913" lon="5.7528219"></trkpt>
+    <trkpt lat="53.2797577" lon="5.7536909"></trkpt>
+    <trkpt lat="53.2797192" lon="5.7546672"></trkpt>
+    <trkpt lat="53.279886" lon="5.7561049"></trkpt>
+    <trkpt lat="53.2797705" lon="5.7581863"></trkpt>
+    <trkpt lat="53.2803671" lon="5.761641"></trkpt>
+    <trkpt lat="53.2799566" lon="5.763894"></trkpt>
+    <trkpt lat="53.2796294" lon="5.7643446"></trkpt>
+    <trkpt lat="53.2785838" lon="5.7662973"></trkpt>
+    <trkpt lat="53.278186" lon="5.7663938"></trkpt>
+    <trkpt lat="53.2777947" lon="5.7698271"></trkpt>
+    <trkpt lat="53.27766" lon="5.7746229"></trkpt>
+    <trkpt lat="53.2774547" lon="5.7812318"></trkpt>
+    <trkpt lat="53.2774996" lon="5.7819721"></trkpt>
+    <trkpt lat="53.2781732" lon="5.7860169"></trkpt>
+    <trkpt lat="53.2774098" lon="5.7884523"></trkpt>
+    <trkpt lat="53.2771981" lon="5.7960376"></trkpt>
+    <trkpt lat="53.276903" lon="5.803698"></trkpt>
+    <trkpt lat="53.2768068" lon="5.8068094"></trkpt>
+    <trkpt lat="53.2773136" lon="5.8076355"></trkpt>
+    <trkpt lat="53.2768773" lon="5.8100709"></trkpt>
+    <trkpt lat="53.2767362" lon="5.8121416"></trkpt>
+    <trkpt lat="53.2776857" lon="5.814105"></trkpt>
+    <trkpt lat="53.2770698" lon="5.8160147"></trkpt>
+    <trkpt lat="53.2764283" lon="5.8170232"></trkpt>
+    <trkpt lat="53.2761652" lon="5.8199629"></trkpt>
+    <trkpt lat="53.275729" lon="5.8260676"></trkpt>
+    <trkpt lat="53.2754659" lon="5.8308098"></trkpt>
+    <trkpt lat="53.2751452" lon="5.8357772"></trkpt>
+    <trkpt lat="53.2749784" lon="5.8388779"></trkpt>
+    <trkpt lat="53.2755943" lon="5.8388779"></trkpt>
+    <trkpt lat="53.2770955" lon="5.8407661"></trkpt>
+    <trkpt lat="53.2786928" lon="5.8422574"></trkpt>
+    <trkpt lat="53.2810471" lon="5.8449182"></trkpt>
+    <trkpt lat="53.2827759" lon="5.8463774"></trkpt>
+    <trkpt lat="53.2841293" lon="5.8474717"></trkpt>
+    <trkpt lat="53.2851325" lon="5.8476863"></trkpt>
+    <trkpt lat="53.2856649" lon="5.849875"></trkpt>
+    <trkpt lat="53.2867296" lon="5.8546922"></trkpt>
+    <trkpt lat="53.2881791" lon="5.8597026"></trkpt>
+    <trkpt lat="53.2905456" lon="5.8665798"></trkpt>
+    <trkpt lat="53.2925978" lon="5.8720944"></trkpt>
+    <trkpt lat="53.2927261" lon="5.8737037"></trkpt>
+    <trkpt lat="53.2933417" lon="5.875828"></trkpt>
+    <trkpt lat="53.2943934" lon="5.8787892"></trkpt>
+    <trkpt lat="53.2949449" lon="5.8795617"></trkpt>
+    <trkpt lat="53.2962145" lon="5.8832524"></trkpt>
+    <trkpt lat="53.2989974" lon="5.8904622"></trkpt>
+    <trkpt lat="53.3000105" lon="5.89205"></trkpt>
+    <trkpt lat="53.300626" lon="5.8944962"></trkpt>
+    <trkpt lat="53.3016904" lon="5.896406"></trkpt>
+    <trkpt lat="53.3027034" lon="5.8995388"></trkpt>
+    <trkpt lat="53.3048704" lon="5.9048388"></trkpt>
+    <trkpt lat="53.3058833" lon="5.9063838"></trkpt>
+    <trkpt lat="53.3084604" lon="5.9132717"></trkpt>
+    <trkpt lat="53.3093066" lon="5.9162972"></trkpt>
+    <trkpt lat="53.310281" lon="5.9179495"></trkpt>
+    <trkpt lat="53.3111015" lon="5.9208462"></trkpt>
+    <trkpt lat="53.3124348" lon="5.9221981"></trkpt>
+    <trkpt lat="53.3128835" lon="5.9240864"></trkpt>
+    <trkpt lat="53.3148962" lon="5.9322188"></trkpt>
+    <trkpt lat="53.3156268" lon="5.9349869"></trkpt>
+    <trkpt lat="53.3154217" lon="5.9370468"></trkpt>
+    <trkpt lat="53.3174343" lon="5.9452222"></trkpt>
+    <trkpt lat="53.3176266" lon="5.9473036"></trkpt>
+    <trkpt lat="53.3176009" lon="5.9487841"></trkpt>
+    <trkpt lat="53.3196646" lon="5.9513376"></trkpt>
+    <trkpt lat="53.3213309" lon="5.9550069"></trkpt>
+    <trkpt lat="53.3212412" lon="5.9573457"></trkpt>
+    <trkpt lat="53.322792" lon="5.9636114"></trkpt>
+    <trkpt lat="53.3225357" lon="5.9683106"></trkpt>
+    <trkpt lat="53.3220743" lon="5.970392"></trkpt>
+    <trkpt lat="53.321113" lon="5.9722374"></trkpt>
+    <trkpt lat="53.3212924" lon="5.9774087"></trkpt>
+    <trkpt lat="53.3219718" lon="5.9797476"></trkpt>
+    <trkpt lat="53.3240481" lon="5.9814856"></trkpt>
+    <trkpt lat="53.3260217" lon="5.9849189"></trkpt>
+    <trkpt lat="53.3266241" lon="5.9859274"></trkpt>
+    <trkpt lat="53.325932" lon="5.9884379"></trkpt>
+    <trkpt lat="53.3252656" lon="5.9920857"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
