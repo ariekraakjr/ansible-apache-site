@@ -1,7 +1,7 @@
 <?php
 
 	
-	include('config/config.php');
+	include('./config/config.php');
 
 	if(isset($_GET["minkmselect"])){
 		$minKm = $_GET["minkmselect"];
